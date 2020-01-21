@@ -8,7 +8,7 @@ This is a data analytics project utilizing SQL and Python 3.6 libraries Numpy, P
 <li> <a href=https://matplotlib.org/>Matplotlib</a>
 
 # Analytics Outline:
-<li> Extract & download as CSV files from SQL database.
+<li> Extract & download data as CSV files from SQL database.
 <li> Calculate the moving average using .rolling.mean() function.
-<li> Visualize data using line charts in the Matplotlib library.
-<li> Documented observations about the data.
+<li> Visualize data using line charts from the Matplotlib library.
+<li> Document observations about the data.
