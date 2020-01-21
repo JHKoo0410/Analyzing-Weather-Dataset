@@ -1,5 +1,5 @@
 # Analyzing Weather Dataset
-This is a data analytics project utilizing SQL and Python 3.6 libraries Numpy, PANDAS and Matplotlob through Jupyter Notebook in order to provide a quick comparative analysis of weather trends globally and, a specific city. I opted for Los Angeles, CA as that is the city I currently reside in.
+This is a data analytics project utilizing SQL and Python v.3 libraries Numpy, PANDAS and Matplotlob through Jupyter Notebook in order to provide a quick comparative analysis between of weather trends globally and a specific city. I opted for Los Angeles, CA as that is the city I currently reside in.
 
 # Required Software:
 <li> <a href=https://jupyter.org/install>Jupyter Notebook</a>
